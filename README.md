@@ -33,4 +33,6 @@ In this project, we can add tasks, mark them as completed, edit them and also de
 
 ## About
 
-I made this project as a beginner to practice JavaScript and understand how things like DOM and localStorage work.
+## About
+
+I made this project as part of a club task. While making this, I learned how to handle user input, update the UI, and store data using localStorage.
